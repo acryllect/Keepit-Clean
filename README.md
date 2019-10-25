@@ -16,3 +16,5 @@ Once the process is complete, run `npm install discord.js`. Your folder should n
 Next, open `index.js` in your text editor of choice and follow the instructions there (added as comments). </br>
 - Note: your bot token is found under the "bot" section on the Discord developer portal. </br>
 
+## But wait! There's more!
+There is a shorter (but harder to understand) fork by [Nemdev](https://twitter.com/nemdev_) which you can check out [here](https://github.com/nashii-git/Keepit-Clean) if you're into efficiency and not a noob like me
